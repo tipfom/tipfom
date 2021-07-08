@@ -2,6 +2,9 @@
 
 I'm from Germany and currently reside in Dresden studying for a Bachelor's degree in Physics.
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="de_DE" data-type="horizontal" data-theme="dark" data-vanity="tim-pokart"><a class="LI-simple-link" href='https://de.linkedin.com/in/tim-pokart?trk=profile-badge'>Tim Pokart</a></div>
+
 <!--
 **tipfom/tipfom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
