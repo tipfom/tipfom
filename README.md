@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Tim! 👋
+
+I'm from Germany and currently reside in Dresden studying for a Bachelor's degree in Physics.
 
 <!--
 **tipfom/tipfom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
