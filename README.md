@@ -1,6 +1,6 @@
 ### Hi there, I'm Tim! 👋
 
-I'm from Germany and currently reside in Dresden studying for a Bachelor's degree in Physics.
+I'm from Germany and currently reside in Dresden studying for a Master's degree in Physics.
 
 This GitHub profile is mainly used to maintain private projects or scripts from lectures.
 
